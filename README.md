@@ -7,4 +7,4 @@
 このハンズオンでは、DGL-LifeSciで提供されているデータセットやモジュールを使って、手軽にGNNベースのタスクを行うことを体感します。
 
 ## ハンズオンリスト
-* [化合物の水溶解度予測]（https://github.com/morisy575/DGL-LifeSci-samples-JP/blob/main/PropertyPrediction-ESOL.ipynb）
+* [化合物の水溶解度予測](https://github.com/morisy575/DGL-LifeSci-samples-JP/blob/main/PropertyPrediction-ESOL.ipynb)
